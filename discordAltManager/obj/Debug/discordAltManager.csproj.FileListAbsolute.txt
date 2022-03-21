@@ -1,0 +1,13 @@
+C:\Users\Disabled\source\repos\discordAltManager\discordAltManager\bin\Debug\discordAltManager.exe.config
+C:\Users\Disabled\source\repos\discordAltManager\discordAltManager\bin\Debug\discordAltManager.exe
+C:\Users\Disabled\source\repos\discordAltManager\discordAltManager\bin\Debug\discordAltManager.pdb
+C:\Users\Disabled\source\repos\discordAltManager\discordAltManager\bin\Debug\Guna.UI.dll
+C:\Users\Disabled\source\repos\discordAltManager\discordAltManager\obj\Debug\discordAltManager.csprojAssemblyReference.cache
+C:\Users\Disabled\source\repos\discordAltManager\discordAltManager\obj\Debug\discordAltManager.Form1.resources
+C:\Users\Disabled\source\repos\discordAltManager\discordAltManager\obj\Debug\discordAltManager.Properties.Resources.resources
+C:\Users\Disabled\source\repos\discordAltManager\discordAltManager\obj\Debug\discordAltManager.csproj.GenerateResource.cache
+C:\Users\Disabled\source\repos\discordAltManager\discordAltManager\obj\Debug\discordAltManager.csproj.CoreCompileInputs.cache
+C:\Users\Disabled\source\repos\discordAltManager\discordAltManager\obj\Debug\discordAltManager.csproj.CopyComplete
+C:\Users\Disabled\source\repos\discordAltManager\discordAltManager\obj\Debug\discordAltManager.exe
+C:\Users\Disabled\source\repos\discordAltManager\discordAltManager\obj\Debug\discordAltManager.pdb
+C:\Users\Disabled\source\repos\discordAltManager\discordAltManager\bin\Debug\WebDriver.dll
